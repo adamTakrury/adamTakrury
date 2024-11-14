@@ -23,7 +23,7 @@ I'm eager to join a company with a **meaningful mission**, where I can use my ba
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-takrury)
 ## 📫 Contact Me
-- ![Email Icon](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white) [adam.takrury@gmail.com](mailto:adam.takrury@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adam.takrury@gmail.com)
 
 ---
 
